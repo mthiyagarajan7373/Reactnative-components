@@ -1,0 +1,1 @@
+{"version":3,"file":"StoreDB.d.ts","sourceRoot":"","sources":["../../../../../../src/db/store/StoreDB.tsx"],"names":[],"mappings":"AASA,KAAK,aAAa,GAAG;IACnB,MAAM,EAAE,OAAO,CAAC;IAChB,GAAG,EAAE,MAAM,CAAC;CACb,CAAC;AAEF;;;;GAIG;AACH,eAAO,MAAM,iBAAiB,aAClB,MAAM,KACf,OAAO,CAAC,aAAa,CAsBvB,CAAC;AAEF,eAAO,MAAM,wBAAwB,qBACjB,MAAM,KACvB,OAAO,CAAC,aAAa,CAsBvB,CAAC"}

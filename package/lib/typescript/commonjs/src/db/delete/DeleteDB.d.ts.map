@@ -1,0 +1,1 @@
+{"version":3,"file":"DeleteDB.d.ts","sourceRoot":"","sources":["../../../../../../src/db/delete/DeleteDB.tsx"],"names":[],"mappings":"AAOA,KAAK,cAAc,GAAG;IACpB,MAAM,EAAE,OAAO,CAAC;IAChB,OAAO,EAAE,MAAM,CAAC;CACjB,CAAC;AAEF;;;GAGG;AACH,eAAO,MAAM,eAAe,cACf,MAAM,KAChB,OAAO,CAAC,cAAc,CAiBxB,CAAC;AAEF;;;GAGG;AACH,eAAO,MAAM,mBAAmB,cACnB,MAAM,MACb,MAAM,KACT,OAAO,CAAC,cAAc,CAiBxB,CAAC"}

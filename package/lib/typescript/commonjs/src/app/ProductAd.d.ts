@@ -1,0 +1,37 @@
+import React from 'react';
+type FontWeight = 'normal' | 'bold' | 'medium';
+type Allign = 'left' | 'center' | 'right';
+type ProductAdProps = {
+    imageHeight?: number | string;
+    imageWidth?: number | string;
+    buttonHeight?: number | string;
+    buttonWidth?: number | string;
+    contentTextSize?: number;
+    priceTextSize?: number;
+    buttonTextSize?: number;
+    pageIndicatorSize?: number;
+    adContainerRadus?: number;
+    buttonRadius?: number;
+    adBackgroundColour?: string;
+    contentTextColour?: string;
+    priceTextColour?: string;
+    buttonColour?: string;
+    buttonTextColour?: string;
+    inactiveDotColour?: string;
+    activeDotColour?: string;
+    numberOFAds?: 1 | 2 | 3 | 4;
+    showPageIndicator?: boolean;
+    showPageChanger?: boolean;
+    pageChangerSize?: 'small' | 'medium' | 'big';
+    pageChangerColour?: string;
+    contentTextWeight?: FontWeight;
+    priceTextWeight?: FontWeight;
+    buttonTextWeight?: FontWeight;
+    alignImage?: Allign;
+    alignContent?: Allign;
+    alignPrice?: Allign;
+    alignButton?: Allign;
+};
+export declare const ProductAd: React.FC<ProductAdProps>;
+export {};
+//# sourceMappingURL=ProductAd.d.ts.map
